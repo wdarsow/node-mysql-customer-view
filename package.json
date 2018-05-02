@@ -1,0 +1,23 @@
+{
+  "name": "mysql-customer-view",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wdarsow/node-mysql-customer-view.git"
+  },
+  "author": "WD",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wdarsow/node-mysql-customer-view/issues"
+  },
+  "homepage": "https://github.com/wdarsow/node-mysql-customer-view#readme",
+  "dependencies": {
+    "inquirer": "^5.2.0",
+    "mysql": "^2.15.0"
+  }
+}
